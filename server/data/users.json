@@ -1,0 +1,11 @@
+[
+  {
+    "id": "admin-1",
+    "name": "Admin",
+    "email": "admin@gmail.com",
+    "password": "$2a$10$R3KcD1vNQ7vQ6Kkg7vU42eXw0T4ZbFJ0K2b8A9l4xj1lW1A7OqN2",
+    "role": "admin",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  }
+]
